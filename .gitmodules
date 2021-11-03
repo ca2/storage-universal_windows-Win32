@@ -1,0 +1,6 @@
+[submodule "basis"]
+	path = basis
+	url = ../storage-universal_windows-Win32-basis
+[submodule "console_basis"]
+	path = console_basis
+	url = ../storage-universal_windows-Win32-console_basis
